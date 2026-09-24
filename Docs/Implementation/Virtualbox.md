@@ -52,4 +52,4 @@ VBoxManage modifyvm "OPNsense" --nictype5 82540EM
 
 
 **Screenshot from OPNsense VM with all adapters:**
-![](network-adapters.png)
+![](Images/network-adapters.png)

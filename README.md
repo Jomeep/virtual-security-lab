@@ -39,9 +39,10 @@ The current environment contains the following logical network segments:
 | Servers     | Server workloads and services                |
 | Management  | Admin access to managed infrastructure       |
 | Guests      | Guest devices with restricted network access |
+
 Each segment is implemented using a VirtualBox internal network adapter and a corresponding OPNsense interface. DHCP scopes are configured individually for the segments.
 
-See [Network Architecture](Docs/Architecture/README.md) for the topology, IP addressing, trust boundaries, and traffic-flow documentation.
+See [Network Architecture](Docs/Architecture/Network%20Architecture.md) for the topology, IP addressing, trust boundaries, and traffic-flow documentation.
 
 ___
 

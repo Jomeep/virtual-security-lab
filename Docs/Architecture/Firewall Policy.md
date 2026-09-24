@@ -43,4 +43,4 @@ ____
 | LAN        | Internal Networks | Lab administrative services        | Allow, if configured | Enables lab admin & troubleshooting       |
 | LAN        | Internet          | Required outbound services         | Allow, if configured | Required internet access                  |
 
-For specific firewall rules see [OPNsense](OPNsense.md).
+For specific firewall rules see [OPNsense](/Docs/Implementation/OPNsense.md).
