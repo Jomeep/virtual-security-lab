@@ -88,10 +88,10 @@ ___
 
 ## Documentation
 
-* [Network Architecture](Network%20Architecture.md)
-* [VirtualBox Implementation](Docs/Implementation/Virtualbox)
-* [OPNsense Implementation](/Docs/Implementation/OPNsense)
-* [Firewall Policy & Traffic Flow](Docs/Architecture/Firewall%20Policy)
+* [Network Architecture](Docs/Architecture/Network%20Architecture.md)
+* [VirtualBox Implementation](Docs/Implementation/Virtualbox.md)
+* [OPNsense Implementation](/Docs/Implementation/OPNsense.md)
+* [Firewall Policy & Traffic Flow](Docs/Architecture/Firewall%20Policy.md)
 
 ____
 
