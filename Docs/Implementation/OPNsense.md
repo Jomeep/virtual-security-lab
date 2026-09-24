@@ -34,6 +34,6 @@ DNSmasq DNS & DHCP is used in this lab for the following reasons:
 - **Integration:** DNS and DHCP can be provided as part of the existing OPNsense infrastructure.
 
 
-![](/main/Images/DHCP-enabled-interfaces.png)
+![](../..//Images/DHCP-enabled-interfaces.png)
 
-![](/main/Images/DHCP-ranges.png)
+![](../../Images/DHCP-ranges.png)
