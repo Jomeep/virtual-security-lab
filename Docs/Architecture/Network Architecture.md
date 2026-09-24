@@ -5,9 +5,9 @@
 
 * The chart will be updated as the project advances.
 
-See [IP addressing](../../IP%20adressing.md)
+See [IP addressing](Docs/Architecture/IP%20adressing.md)
 
-See [Firewall Policy](../../Firewall%20Policy.md)
+See [Firewall Policy](Docs/Architecture/Firewall%20Policy.md)
 ____
 
 ## Design Decisions
