@@ -1,7 +1,7 @@
 
 ## Current Topology
 
-![](Images/lab-topology.drawio.png)
+![](../../Images/lab-topology.drawio.png)
 
 * The chart will be updated as the project advances.
 
